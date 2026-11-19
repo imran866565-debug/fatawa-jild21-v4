@@ -1,0 +1,142 @@
+{
+  "chunks": [
+    {
+      "chunk": "01",
+      "description": "Jild 21, pp. 5-151",
+      "end_page": 151,
+      "file": "jild-21-chunk-01.json",
+      "items": 19,
+      "pages_present": 57,
+      "start_page": 5,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 19 items, pp.5-151, ids/titles/pages == v3, vol 43, 1 empty sawal (pesh-lafz), 0 empty jawab, notes 40 vs v3 40, glosses 309x 'کا مطلب' + 14x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). No fix-ups recorded; clean re-write. Holds masala-18 [150-151] (its p.151 tail completed inside its own item); p.151 shared with masala-19-22 in chunk 02 by design (DO-NOT-COMBINE). SHA 5c03e762…."
+    },
+    {
+      "chunk": "02",
+      "description": "Jild 21, pp. 151-200",
+      "end_page": 200,
+      "file": "jild-21-chunk-02.json",
+      "items": 24,
+      "pages_present": 50,
+      "start_page": 151,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 24 items, pp.151-200, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 34 vs v3 34, glosses 163x 'کا مطلب' + 8x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). First item masala-19-22 [151-153]. 29 v3 gloss-notes folded inline as Rule-1 definitional glosses in the tashreeh and replaced by reworded notes; substance verified present for all 29 (term+gloss search + keyword search in the notes array). 0 v3 notes genuinely lost. SHA 21f80c74…."
+    },
+    {
+      "chunk": "03",
+      "description": "Jild 21, pp. 201-250",
+      "end_page": 250,
+      "file": "jild-21-chunk-03.json",
+      "items": 20,
+      "pages_present": 50,
+      "start_page": 201,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 20 items, pp.201-250, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 27 vs v3 26, glosses 284x 'کا مطلب' + 7x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds the start of risala جلی النص. 3 added notes (masala-67 غمز العیون تقسیم، masala-68-69 اذان مذاق + 'تجدید کا مطلب ہے نیا کرنا' gloss، masala-86 المحجۃ المؤتمنہ + 'موالات کا مطلب ہے دوستی' gloss) — the masala-68-69 and masala-86 notes are the v3 notes verbatim plus an appended gloss. 0 lost. SHA 21b50912…."
+    },
+    {
+      "chunk": "04",
+      "description": "Jild 21, pp. 251-299",
+      "end_page": 299,
+      "file": "jild-21-chunk-04.json",
+      "items": 24,
+      "pages_present": 49,
+      "start_page": 251,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 24 items, pp.251-299, ids/titles/pages == v3, vol 43, 1 empty sawal (masala-151), 0 empty jawab, notes 17 vs v3 17, glosses 479x 'کا مطلب' + 10x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds the start of risala الرمز المرصف. The masala-95-97 note differs only by Arabic ي -> Urdu ی in مشیخت. 0 lost. SHA a3b9eb91…."
+    },
+    {
+      "chunk": "05",
+      "description": "Jild 21, pp. 301-350",
+      "end_page": 350,
+      "file": "jild-21-chunk-05.json",
+      "items": 2,
+      "pages_present": 49,
+      "start_page": 301,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 2 items, pp.301-350, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 9 vs v3 8, glosses 346x 'کا مطلب' + 2x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). masala-165 [301-337] is ONE item (whole risala برکات الامداد ۱۳۱۱ھ) + masala-166 head [339-350]. +1 note: the p.300 gap note (p.300 absent from the source DB, masala-165 starts p.301). SHA e7ac59dd…."
+    },
+    {
+      "chunk": "06",
+      "description": "Jild 21, pp. 351-395",
+      "end_page": 395,
+      "file": "jild-21-chunk-06.json",
+      "items": 1,
+      "pages_present": 45,
+      "start_page": 351,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 1 item, pp.351-395, ids/titles/pages == v3, vol 43, 1 empty sawal (masala-166 tail), 0 empty jawab, notes 8 vs v3 8, glosses 70x 'کا مطلب' + 1x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). masala-166 tail only. SHA eda03369…."
+    },
+    {
+      "chunk": "07",
+      "description": "Jild 21, pp. 397-440",
+      "end_page": 440,
+      "file": "jild-21-chunk-07.json",
+      "items": 6,
+      "pages_present": 44,
+      "start_page": 397,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 6 items, pp.397-440, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 19 vs v3 18, glosses 121x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds masala-172-175 head [425-440]. +1 note: the p.396 gap note (p.396 absent from the source DB, masala-167 starts p.397). SHA 1962549e…."
+    },
+    {
+      "chunk": "08",
+      "description": "Jild 21, pp. 441-480",
+      "end_page": 480,
+      "file": "jild-21-chunk-08.json",
+      "items": 6,
+      "pages_present": 40,
+      "start_page": 441,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 6 items, pp.441-480, ids/titles/pages == v3, vol 43, 1 empty sawal (shifa-ul-walah tail), 0 empty jawab, notes 18 vs v3 18, glosses 445x 'کا مطلب' + 13x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds shifa-ul-walah tail [441-458] + masala-180 head [479-480]. SHA 0c0ad2d8…."
+    },
+    {
+      "chunk": "09",
+      "description": "Jild 21, pp. 481-520",
+      "end_page": 520,
+      "file": "jild-21-chunk-09.json",
+      "items": 6,
+      "pages_present": 40,
+      "start_page": 481,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 6 items, pp.481-520, ids/titles/pages == v3, vol 43, 1 empty sawal (masala-180 tail), 0 empty jawab, notes 18 vs v3 15, glosses 260x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds masala-180 tail [481-484] and the tail of risala نقاء السلافہ (ends p.495, masala-185 appended from Fatawa Africa). +3 notes, all restorations (p.483 hadith's two Arabic forms, masala-182's Persian couplet, masala-185's p.500 hashiya tail). SHA 52063ee3…."
+    },
+    {
+      "chunk": "10",
+      "description": "Jild 21, pp. 521-568",
+      "end_page": 568,
+      "file": "jild-21-chunk-10.json",
+      "items": 1,
+      "pages_present": 48,
+      "start_page": 521,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 1 item, pp.521-568, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 6 vs v3 5, glosses 109x 'کا مطلب' + 6x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). masala-186 only (ONE item, whole risala مقال العرفاء ۱۳۲۷ھ). +1 note: the ہذیانات restoration (p.522, missing from v3's sawal). SHA 41c9f1ef…."
+    },
+    {
+      "chunk": "11",
+      "description": "Jild 21, pp. 569-620",
+      "end_page": 620,
+      "file": "jild-21-chunk-11.json",
+      "items": 16,
+      "pages_present": 52,
+      "start_page": 569,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 16 items, pp.569-620, ids/titles/pages == v3, vol 43, 0 empty sawal, 0 empty jawab, notes 16 vs v3 16, glosses 141x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds masala-203-206 head [619-620] and the start of risala شرب و طعام. The masala-187 note is the v3 note with 'واسطہ کا مطلب ہے ذریعہ؛ ' inserted. 0 lost. SHA aab0ee35…."
+    },
+    {
+      "chunk": "12",
+      "description": "Jild 21, pp. 621-674",
+      "end_page": 674,
+      "file": "jild-21-chunk-12.json",
+      "items": 60,
+      "pages_present": 54,
+      "start_page": 621,
+      "status": "done",
+      "verified": "2026-11-19 ~06:30 PKT — coordinator verified: 60 items, pp.621-674, ids/titles/pages == v3, vol 43, 2 empty sawal (masala-203-206 tail + khatima-note), 0 empty jawab, notes 7 vs v3 7, glosses 508x 'کا مطلب' + 14x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept (coordinator audit). Holds masala-203-206 tail [621-622] + khatima-note p.674 (publisher's note, empty sawal by design). SHA 56051397…."
+    }
+  ],
+  "total_pages_present": 578,
+  "total_unique_pages": 577,
+  "volume": 43,
+  "volume_ids": [
+    43
+  ]
+}
